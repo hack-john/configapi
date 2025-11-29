@@ -156,5 +156,19 @@
             "file_id": "BQACAgIAAxkBAAIFc2krCUMcUQ85N6jwHcOqIwVKIkZoAALtiwACgf1ZSYXRCvmE3B8fNgQ",
             "description": "🔥 Safaricom Free INTERNET 🌐\n🔱 Import በሳፋሪኮም ሲም ብቻ \n🔱 Ip adress ይመርጣል \n\nExpire date DEC 4 (  4 Days )\nStatus : Active 🟢\nConnected አልል ካላቹ Airplane mod እያረጋቹ ሞክሩት"
         }
+    ],
+    "TLS Tunnel": [
+        {
+            "id": "1ca63735",
+            "title": "ToX-TLS WhatsApp.tls",
+            "file_id": "BQACAgQAAxkBAAIFimkrIerBikp1jYx289fG37COUCwnAAKmGQACVpZZUR2eJyomS9poNgQ",
+            "description": "Social media packages ✌️"
+        },
+        {
+            "id": "eb0073a8",
+            "title": "ToX-TLS Telegram .tls",
+            "file_id": "BQACAgQAAxkBAAIFjGkrIesohVa_gbQixZdYas8ggs5ZAAKnGQACVpZZUYLzXRTa-uJ4NgQ",
+            "description": "Social media packages ✌️"
+        }
     ]
 }
